@@ -1,0 +1,63 @@
+
+const name = "Kameshwar Maurya"
+const repoCount = 50;
+let result = `My name is ${name} and my repo count is ${repoCount}` // this syntax called string interpolation
+console.log(result);
+
+// methods
+
+/**
+ * 
+ * anchor()
+ * at()
+ * big()
+ * blink()
+ * bold()
+ * charAt()
+ * charCodeAt()
+ * codePointAt()
+ * concat()
+ * String()
+ * endsWith()
+ * fixed()
+ * fontcolor()
+ * fontsize()
+ * includes()
+ * indexOf()
+ * isWellFormed()
+ * italics()
+ * lastIndexOf()
+ * link()
+ * localeCompare()
+ * match()
+ * matchAll()
+ * normalize()
+ * padEnd()
+ * padStart()
+ * repeat()
+ * replace()
+ * replaceAll()
+ * search()
+ * slice()
+ * small()
+ * split()
+ * startsWith()
+ * strike()
+ * sub()
+ * substr()
+ * substring()
+ * sup()
+ * toLocaleLowerCase()
+ * toLocaleUpperCase()
+ * toLowerCase()
+ * toString()
+ * toUpperCase()
+ * toWellFormed()
+ * trim()
+ * trimEnd()
+ * trimStart()
+ * trimEnd()
+ * trimStart()
+ * valueOf()
+ * [Symbol.iterator]()
+ */
